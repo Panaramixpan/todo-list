@@ -9,6 +9,7 @@ function App() {
         {id: 3, title: 'ReactJS', isDone: false},
         {id: 4, title: 'React API', isDone: false},
         {id: 5, title: 'GraphQL', isDone: false},
+        {id: 6, title: 'GraphQL2', isDone: false},
     ];
 
     return (
